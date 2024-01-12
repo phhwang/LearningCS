@@ -1,0 +1,10 @@
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\obj\Debug\GetHardDiskSN.csproj.AssemblyReference.cache
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\obj\Debug\GetHardDiskSN.csproj.CoreCompileInputs.cache
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\bin\Debug\GetHardDiskSN.exe.config
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\bin\Debug\GetHardDiskSN.exe
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\bin\Debug\GetHardDiskSN.pdb
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\bin\Debug\System.CodeDom.dll
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\bin\Debug\System.CodeDom.xml
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\obj\Debug\GetHardDiskSN.csproj.CopyComplete
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\obj\Debug\GetHardDiskSN.exe
+D:\Tekla-Grasshopper-CS\CS\CS_codes\Bdcmcodes_CS\GetHardDiskSN\GetHardDiskSN\obj\Debug\GetHardDiskSN.pdb
