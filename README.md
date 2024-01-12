@@ -1,2 +1,2 @@
 # LearningCS
-Just for my own learning.
+Just for my own learning and testing.
